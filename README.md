@@ -16,4 +16,5 @@ un menu de navegación de un sitio web</p>
 <p>Abre el proyecto en tu editor de código favorito</p>
 <p>Crea un nuevo archivo .env en la raiz del proyecto</p>
 <p>Copia el codigo del archivo .env.example en el archivo .env</p>
+<p>Configura las variables de entorno del archivo .env</p>
 <p>Ejecuta el comando: <b>php artisan key:generate</b> desde la raiz de tu proyecto</p>
